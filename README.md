@@ -58,6 +58,12 @@ UI by [@DennisBednarz](https://twitter.com/DennisBednarz) & [Samg_is_a_Ninja](ht
 * Any kind of contribution is welcome
 * The source code can be found on [pwn20wndstuff](https://github.com/pwn20wndstuff)'s GitHub account
 
+### Building
+* Install XCode.
+* Install `dpkg` and `ldid` with [Homebrew](https://brew.sh).
+* Make sure Xcode is selected for the build tools: `sudo xcode-select -s /Applications/Xcode.app/Contents/Developer`
+* `make`
+
 ## Video tutorial
 * <a href="https://youtu.be/TqHYjLHO0zs">https://youtu.be/TqHYjLHO0zs</a>
 
